@@ -185,24 +185,6 @@ src/main/java/com/example/cqrs/
 └── CqrsEventSourcingApplication.java
 ```
 
-## Technologies Used
-
-- **Spring Boot 3.2.0** - Framework
-- **Java 21** - Programming language
-- **Spring Data JPA** - Data access
-- **H2 Database** - In-memory database
-- **Jackson** - JSON serialization
-- **Spring Boot Test** - Testing framework
-- **Maven** - Build tool
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Submit a pull request
-
 ## License
 
 This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
